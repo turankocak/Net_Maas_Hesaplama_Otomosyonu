@@ -1,0 +1,63 @@
+*********************************** 	
+ SGK NO : 11345 	  	
+ BRUT MAAS : 12450 
+  	
+ NET MAAS : 9650 
+   	
+ OCAK: 9650 
+ 	
+ SUBAT: 9650 
+ 	
+ MART: 9650 
+ 	
+ NISAN: 9650 
+ 	
+ MAYIS: 9650 
+ 	
+ HAZIRAN: 9575 
+ 	
+ TEMMUZ: 9560 
+ 	
+ AGUSTOS: 9475 
+ 	
+ EYLUL: 9392 
+ 	
+ EKIM: 9371 
+ 	
+ KASIM: 9575 
+ 	
+ ARALIK: 9650 
+ 	
+ TOPLAM: 115275 
+********************************************************************** 	
+ SGK NO : 25316 	  	
+ BRUT MAAS : 12350 
+  	
+ NET MAAS : 9573 
+   	
+ OCAK: 9573 
+ 	
+ SUBAT: 9573 
+ 	
+ MART: 9573 
+ 	
+ NISAN: 9573 
+ 	
+ MAYIS: 9573 
+ 	
+ HAZIRAN: 9498 
+ 	
+ TEMMUZ: 9483 
+ 	
+ AGUSTOS: 9398 
+ 	
+ EYLUL: 9315 
+ 	
+ EKIM: 9294 
+ 	
+ KASIM: 9498 
+ 	
+ ARALIK: 9573 
+ 	
+ TOPLAM: 114351 
+***********************************
